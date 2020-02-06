@@ -8,7 +8,7 @@ local device     = _G.device
 local template =
 [[%sWarning%s
 
-Must an interface for Refined Storage / Applied Energistics.
+Must be an interface for Refined Storage / Applied Energistics.
 
 Add all speed upgrades possible.
 ]]

@@ -1,0 +1,18 @@
+{
+	required = {
+		'core',
+		'recipeBook',
+		'turtle',
+		'milo',
+	},
+	title = 'Milo Plugin Manager',
+	repository = 'kepler155c/opus-apps/{{OPUS_BRANCH}}/mpm',
+	description = [[Plugin manager for Milo.
+
+Allows toggling of Milo plugins.
+
+FIXME Review the license choice
+FIXME Review the dependencies
+]],
+	license = 'MIT',
+}

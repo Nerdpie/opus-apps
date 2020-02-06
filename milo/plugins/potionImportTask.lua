@@ -28,7 +28,7 @@ function PotionImportTask:cycle(context)
 			end
 
 			if list[1] and not list[4] then
-				-- brewing has completd
+				-- brewing has completed
 
 				if self.brewQueue[bs.name] and list[1] then
 					local key = itemDB:makeKey(list[1])
